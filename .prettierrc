@@ -1,0 +1,14 @@
+{
+	"trailingComma": "none",
+	"useTabs": true,
+	"semi": true,
+	"overrides": [
+		{
+			"files": "*.json",
+			"options": {
+				"useTabs": false,
+				"tabWidth": 2
+			}
+		}
+	]
+}
